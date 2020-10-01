@@ -274,8 +274,7 @@ function initWidget(config, apiPath = "/") {
 			apiPath
 		};
 	}
-	document.body.insertAdjacentHTML("beforeend", `<div class="live2d-tool hide-live2d no-select" id="show_model"><div class="keys">Hide</div></div>
-		<div class="live2d-tool switch-live2d no-select" id="switch_model"><div class="keys">Switch</div></div>
+	document.body.insertAdjacentHTML("beforeend", `<div class="live2d-tool switch-live2d no-select" id="switch_model"><div class="keys">Switch</div></div>
 		<div class="live2d-tool save-live2d no-select" id="save_pic"><div class="keys">Save</div></div>
 		`);
 	document.getElementById("switch_model").addEventListener("click", () => {
