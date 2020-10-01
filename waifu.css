@@ -378,7 +378,7 @@
  }
 }
 @media screen and (-webkit-min-device-pixel-ratio:0) {
-/*  .live2d-tool {
+ .live2d-tool {
   position:fixed;
   bottom:0;
   left:0;
@@ -388,7 +388,7 @@
   border-radius:5px;
   font-size:13px;
   cursor:pointer
- } */
+ }
  @media(min-width:861px) {
   .live2d-tool {
    border-radius:0 5px 5px 0;
