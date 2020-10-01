@@ -455,8 +455,8 @@
   visibility:visible;
   min-height:45px
  }
- .live2d-pio,
- /* .live2d-tia {
+ /*.live2d-pio,
+ .live2d-tia {
   background-color:#c3a6cb;
   bottom:156px;
   visibility:visible;
